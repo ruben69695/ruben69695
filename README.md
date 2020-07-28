@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:microphone: I'm Rubén Arrebola, from Barcelona, Spain. I'm software developer, focused mainly in :underage::volcano:  backend  but also interested in :rose:  frontend development.
+:microphone: I'm Rubén Arrebola, from Barcelona, Spain. I'm software developer, focused mainly in backend :underage::volcano:  but also interested in frontend development :rose: .
 
 :computer: My code is mainly written in C# and Python but I'm always opened to learn new languages and frameworks to adapt me to the market. 
 
