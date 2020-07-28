@@ -9,8 +9,7 @@ Here we have some information about me:
 - 🌱 I’m currently improving my knowledge in web development, cloud and machine learning
 - 👯 I’m looking to collaborate with open source projects
 - 📫 How to reach me: SAY MY NAME!!!
-- 💬 Ask me about Awacates
-- Epic phrases: "Just remember where you wanna be, hold on for victory." | "Don't give up, don't give in. There's always an answer to everything." 
+- 💬 Epic phrases: "Just remember where you wanna be, hold on for victory." | "Don't give up, don't give in. There's always an answer to everything." 
 - ⚡ Fun phrase: "Damn, I forgot my cookies in the moon"
 
 <!--
