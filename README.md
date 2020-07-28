@@ -4,7 +4,7 @@
 
 :computer: My code is mainly written in C# and Python but I'm always opened to learn new languages and frameworks to adapt me to the market. 
 
-Here we have some information about me:
+Here we have some extra information about me:
 - 🔭 I’m currently working on @CounterGrogWise
 - 🌱 I’m currently improving my knowledge in web development, cloud and machine learning
 - 👯 I’m looking to collaborate with open source projects
