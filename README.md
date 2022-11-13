@@ -5,10 +5,10 @@
 :computer: My code is mainly written in C# and Python but I'm always opened to learn new languages and frameworks to adapt me to the market. 
 
 Here we have some extra information about me:
-- 🔭 I’m currently studying
-- 🌱 I’m currently improving my knowledge in web development, cloud and machine learning
+- 🔭 I’m currently working in @TraininGym as Backend Developer JR
+- 🌱 I’m currently improving my knowledge in web development and learning about cloud infrastructure and deployments
 - 👯 I’m looking to collaborate with open source projects
-- 📫 How to reach me: SAY MY NAME!!!
+- 📫 How to reach me: Take a look at my professional web at [rubenarrebola.pro](https://www.rubenarrebola.pro)
 - 💬 Epic phrases: "Just remember where you wanna be, hold on for victory." | "Don't give up, don't give in. There's always an answer to everything." 
 - ⚡ Fun phrase: "Damn, I forgot my cookies in the moon"
 
