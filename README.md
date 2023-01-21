@@ -2,7 +2,7 @@
 
 :microphone: I'm Rubén Arrebola, from Barcelona, Spain. I'm software developer, focused mainly in backend :underage::volcano:  but also interested in frontend development :rose: .
 
-:computer: My code is mainly written in C# and Python but I'm always opened to learn new languages and frameworks to adapt me to the market. 
+:computer: My code is mainly written in C#, Python and Rust but I'm always opened to learn new languages and frameworks to adapt me to the market. 
 
 Here we have some extra information about me:
 - 🔭 I’m currently unemployed
