@@ -8,7 +8,7 @@ Here we have some extra information about me:
 - 🔭 I’m currently working on Signaturit
 - 🌱 I’m currently improving my knowledge in Dart and Flutter
 - 👯 I’m looking to collaborate with open source projects
-- 📫 How to reach me: Take a look at my professional web at [rubenarrebola.pro](https://www.rubenarrebola.pro)
+- 📫 How to reach me: Take a look to my email
 - 💬 Epic phrases: "Just remember where you wanna be, hold on for victory." | "Don't give up, don't give in. There's always an answer to everything." 
 - ⚡ Fun phrase: "Damn, I forgot my cookies in the moon"
 
